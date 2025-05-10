@@ -1,5 +1,5 @@
 %//////////////////////////////////////////////////////////////////////////
-% Group 3: Marc Codes, Marc Fernandes, Victor Savallaaa
+% Group 3: Marc Codes, Marc Fernandes, Victor Savall
 %//////////////////////////////////////////////////////////////////////////
 function [Nc, Tc, salphaj, calphaj, lpanj] = calculNcTc(X, N)
 % Esta función calcula los vectores normales y tangenciales,
