@@ -1,12 +1,3 @@
-%% CODI PROJECT PART 1
-%---------------------------------------------
-% Data: 25/04/2025
-% Membres: Antonio Luque, Pau Cornudella i Alex Aleñà
-% Assignatura: AERODINÀMICA, MECÀNICA DE VOL I ORBITAL
-% Grup: 6
-% ---------------------------------------------
-clc; clear; close all;
-
 function X_rotated = rotateCoordinates(X, angle_deg)
     % Convierte el ángulo de grados a radianes
     angle_rad = angle_deg * pi / 180;
